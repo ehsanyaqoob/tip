@@ -1,0 +1,17 @@
+//
+//  tipApp.swift
+//  tip
+//
+//  Created by Ehsan Yaqoob on 14/01/2026.
+//
+
+import SwiftUI
+
+@main
+struct tipApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
